@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XzAN7h8j2169Fd3vVevSlaYvdftKxw/kCoitjcPubU63ENJHxAbv9hk8sIykM1uO5Euu1itXrNwbTzr0OY4DiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edwal\\source\\repos\\Colgameplays\\Colgameplays.Model\\Colgameplays.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.8\\microsoft.aspnetcore.http.features.5.0.8.nupkg.sha512",
+    "C:\\Users\\edwal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\edwal\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\bin\Debug\net5.0\Colgameplays.Model.deps.json
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\bin\Debug\net5.0\Colgameplays.Model.dll
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\bin\Debug\net5.0\ref\Colgameplays.Model.dll
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\bin\Debug\net5.0\Colgameplays.Model.pdb
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.csprojAssemblyReference.cache
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.AssemblyInfoInputs.cache
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.AssemblyInfo.cs
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.csproj.CoreCompileInputs.cache
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.dll
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\ref\Colgameplays.Model.dll
+C:\Users\edwal\source\repos\Colgameplays\Colgameplays.Model\obj\Debug\net5.0\Colgameplays.Model.pdb
